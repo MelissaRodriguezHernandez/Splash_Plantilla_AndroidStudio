@@ -2,4 +2,4 @@
 
 Repositorio corrompido
 
-![Enlace al nuevo repositorio](https://github.com/MelissaRodriguezHernandez/Splash_Android)
+[Enlace al nuevo repositorio](https://github.com/MelissaRodriguezHernandez/Splash_Android)
